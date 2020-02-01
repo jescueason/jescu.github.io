@@ -1,0 +1,29 @@
+#app .navbar .home-link span:before {
+  display: inline-block;
+  content: "";
+  width: 2.5rem;
+  height: 2.5rem;
+  background: url(../images/logo.jpg) no-repeat;
+  background-size: 100% 100%;
+  vertical-align: middle;
+  border-radius: 20px;
+  margin-right: 0.8rem;
+}
+
+.home .hero .action-button {
+    border-radius: 30px !important;
+}
+
+.home .hero img {
+  border-radius: 50px;
+}
+
+.theme-default-content.custom {
+  max-width: 800px;
+  margin: 0 auto !important;
+}
+
+.aliyun-280{
+  text-align: center;
+  padding: 10px;
+}
